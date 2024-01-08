@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "905779153032",
+    "project_id": "dominiks-twitter",
+    "storage_bucket": "dominiks-twitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905779153032:android:1714005574707370fbf73d",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEo1lmqgVXVZTSBI6NVjX1NAsl66vfmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905779153032:android:5599fcd71b0d4d62fbf73d",
+        "android_client_info": {
+          "package_name": "com.example.twitter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEo1lmqgVXVZTSBI6NVjX1NAsl66vfmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905779153032:android:615eb551daf379c5fbf73d",
+        "android_client_info": {
+          "package_name": "com.example.zero_to_mastery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEo1lmqgVXVZTSBI6NVjX1NAsl66vfmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
